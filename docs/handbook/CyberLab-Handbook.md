@@ -64,3 +64,20 @@ Every technology studied must produce practical results through implementation, 
 **Status:** Active
 
 **Founded:** June 2026
+
+
+# Chapter 01 — Mission
+
+## Mission
+
+The mission of CyberLab 2030 is to transform theoretical knowledge into practical expertise through continuous implementation, documentation, experimentation and automation.
+
+Every concept studied within the project must result in a tangible outcome such as infrastructure, code, documentation, scripts, diagrams or operational procedures.
+
+CyberLab promotes learning by building rather than learning by memorization.
+
+The project values curiosity, discipline, technical quality and continuous improvement above speed.
+
+Its mission is not only to learn technologies, but to understand the principles that make those technologies possible.
+
+
