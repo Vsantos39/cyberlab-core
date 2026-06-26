@@ -1,17 +1,45 @@
 # CyberLab Core
 
-Build. Secure. Automate.
+> **Build. Secure. Automate.**
 
-The central repository for the CyberLab 2030 ecosystem.
+The central engineering repository for the CyberLab 2030 ecosystem.
 
-## Documentation
+CyberLab Core defines the architecture, engineering standards, documentation methodology, governance, and long-term roadmap for the entire project.
 
-- CyberLab Handbook
-- Architecture
-- Technology Stack
-- Standards
-- Roadmap
+---
+## Purpose
 
-## Mission
+CyberLab Core serves as the engineering foundation of the CyberLab 2030 ecosystem.
 
-To provide the governance, standards and documentation that support every CyberLab repository.
+It centralizes the project's architecture, standards, governance, documentation methodology, and strategic planning, ensuring consistency across every repository that composes the platform.
+## Repository Structure
+
+```text
+cyberlab-core/
+│
+├── README.md
+├── LICENSE
+│
+└── docs/
+    ├── handbook/
+    ├── architecture/
+    ├── standards/
+    ├── templates/
+    ├── roadmap/
+    ├── diagrams/
+    └── assets/
+
+```markdown
+## Documentation Overview
+
+| Section         | Description                                 |
+| --------------- | ------------------------------------------- |
+| 📘 Handbook     | Engineering handbook and project philosophy |
+| 🏛 Architecture | High-level architecture and design          |
+| 📚 Standards    | Engineering standards and conventions       |
+| 📄 Templates    | Reusable document templates                 |
+| 🗺 Roadmap      | Long-term project planning                  |
+| 📊 Diagrams     | Architecture and infrastructure diagrams    |
+
+
+
