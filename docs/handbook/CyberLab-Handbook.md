@@ -104,3 +104,79 @@ It is intended to become a lifelong platform for experimentation, professional d
 By 2030, CyberLab should represent a complete enterprise ecosystem capable of simulating modern corporate environments, allowing continuous development in infrastructure, cloud computing, cybersecurity, automation, DevSecOps and governance.
 
 Every technology learned should strengthen the ecosystem rather than exist as an isolated exercise.
+
+
+# Chapter 03 — Values
+
+## Values
+
+The CyberLab 2030 project is guided by a set of values that shape every technical and strategic decision throughout its evolution.
+
+These values are independent of technologies, tools or trends.
+
+They represent the culture of the project.
+
+---
+
+### Learn by Building
+
+Knowledge becomes meaningful only when transformed into practical implementation.
+
+Every concept studied should result in a laboratory, documentation, code, automation or infrastructure.
+
+---
+
+### Documentation First
+
+Documentation is not the final step of a project.
+
+Documentation is part of the implementation itself.
+
+If it is not documented, it is not complete.
+
+---
+
+### Understand Before Automating
+
+Automation should never replace understanding.
+
+Every process must first be understood manually before being automated.
+
+---
+
+### Continuous Improvement
+
+CyberLab is designed to evolve continuously.
+
+Every laboratory, document and architecture can always be improved as new knowledge is acquired.
+
+---
+
+### Security by Design
+
+Security is not an additional feature.
+
+Security is considered from the beginning of every implementation, architecture and decision.
+
+---
+
+### Simplicity with Purpose
+
+Simple solutions are preferred whenever they provide the same level of quality, maintainability and security.
+
+Complexity should exist only when it solves a real problem.
+
+---
+
+### Open Knowledge
+
+Whenever possible, knowledge produced during the CyberLab journey should be documented and shared to help other professionals.
+
+---
+
+### Professional Mindset
+
+CyberLab is developed using the same standards, organization and discipline expected in professional enterprise environments.
+
+The objective is not only to study technologies, but to develop the mindset of an infrastructure and cybersecurity professional.
+
