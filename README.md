@@ -29,7 +29,7 @@ cyberlab-core/
     ├── diagrams/
     └── assets/
 
-```markdown
+
 ## Documentation Overview
 
 | Section         | Description                                 |
