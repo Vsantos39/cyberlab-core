@@ -27,7 +27,8 @@ cyberlab-core/
     ├── templates/
     ├── roadmap/
     ├── diagrams/
-    └── assets/
+    ├── assets/
+    └── Roadmap.md
 
 
 ## Documentation Overview
