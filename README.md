@@ -33,14 +33,14 @@ cyberlab-core/
 
 ## Documentation Overview
 
-| Section         | Description                                 |
-| --------------- | ------------------------------------------- |
-| 📘 Handbook     | Engineering handbook and project philosophy |
-| 🏛 Architecture | High-level architecture and design          |
-| 📚 Standards    | Engineering standards and conventions       |
-| 📄 Templates    | Reusable document templates                 |
-| 🗺 Roadmap      | Long-term project planning                  |
-| 📊 Diagrams     | Architecture and infrastructure diagrams    |
+| Section      | Description                                 |
+| -------------| ------------------------------------------- |
+| Handbook     | Engineering handbook and project philosophy |
+| Architecture | High-level architecture and design          |
+| Standards    | Engineering standards and conventions       |
+| Templates    | Reusable document templates                 |
+| Roadmap      | Long-term project planning                  |
+| Diagrams     | Architecture and infrastructure diagrams    |
 
 
 
